@@ -32,6 +32,14 @@
 
 If you're searching for **Roon music server software**, **Roon library playback**, **Roon alternatives**, or **self-hosted music players**, [see Brimstone's Roon music server guide](https://core-audio.uk/roon-music-server.html).
 
+## Discover Brimstone on GitHub
+
+**Music server software · audiophile music player · Debian audio server · Roon library playback · Meridian MS200 · Sooloos V3 · digital music collection · network audio · Sonos · Lyrion / Squeezebox · AirPlay · Google Cast · CarPlay.**
+
+Start with the [native Meridian V3 engineering report](MERIDIAN-V3-ENGINEERING.md) or [tested Roon-managed library playback](ROON-LIBRARY-COMPATIBILITY.md), then explore the [live product screenshots](https://core-audio.uk/control.html) and [official downloads](https://core-audio.uk/downloads.html).
+
+These are **public product notes and release assets**; the Core, Control and Store source repositories remain private.
+
 ## Why Brimstone?
 
 | Your music | Your equipment | Your experience |
