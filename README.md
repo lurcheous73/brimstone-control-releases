@@ -1,12 +1,25 @@
 # Brimstone Core & Control
 
-### An independent music server, Roon-compatible library playback, and a modern music player for the hardware you love.
+### Native Meridian MS200 / Sooloos V3 playback. Tested Roon-managed library playback. Your music, your hardware.
 
 [**Explore Brimstone Core**](https://core-audio.uk/) · [**Download Core & Control**](https://core-audio.uk/downloads.html) · [**Meridian V3 engineering update**](https://core-audio.uk/meridian-v3-breakthrough-20261108.html) · [**Community Discord**](https://discord.gg/XyNm7ZXsj)
 
 ![Brimstone Core self-hosted music server — album library, playback controls and Meridian output](https://core-audio.uk/assets/showcase/core-home.jpg)
 
 **Brimstone Core** is an independent, self-hosted music server and audiophile playback platform designed for local music collections, classic audio hardware, and modern listening interfaces. It is built around Debian, with dedicated Control clients and a growing set of audio transports.
+
+## Meridian V3 breakthrough — MS200 & Sooloos 🔊
+
+**Native Meridian V3 playback is now working on real MS200 hardware.** In just two days, the engine progressed from stuttering, dropouts and premature stops to working playback. Repeated next/previous skipping helped expose a tiny **floating-point-related error** behind intermittent next-track failure; the issue has been corrected in the Brimstone implementation.
+
+- **Real hardware:** MS200 native playback demonstrated.
+- **The fix:** a numerical track-transition failure isolated and corrected.
+- **The direction:** V3 is the future engine; V2 is being retired.
+- **What's next:** extended gapless/mixed-format tests, receiver reboot recovery and 4 GB RAM qualification.
+
+[**Read the Meridian V3 engineering report →**](MERIDIAN-V3-ENGINEERING.md) · [**Live announcement**](https://core-audio.uk/meridian-v3-breakthrough-20261108.html) · [**Meridian compatibility page**](https://core-audio.uk/meridian.html)
+
+![Brimstone Core Meridian playback — real Now Playing interface](https://core-audio.uk/assets/showcase/core-now-playing.jpg)
 
 ## Roon-compatible library playback — tested 🎶
 
