@@ -11,3 +11,7 @@ Use the **Installer** for a normal Windows installation, or the **Portable** bui
 The APPX file attached to releases is the Microsoft Store submission package and is not intended for normal direct sideload installation.
 
 Project website: https://core-audio.uk
+
+## All Brimstone downloads
+
+Current Core, Store and Control installer links, SHA-256 hashes and release status are listed in [BRIMSTONE-DOWNLOADS.md](BRIMSTONE-DOWNLOADS.md). The proprietary application source remains private.
